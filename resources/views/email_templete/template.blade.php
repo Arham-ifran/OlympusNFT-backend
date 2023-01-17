@@ -1,0 +1,1 @@
+@if(isset($mailContents) ) {!! $mailContents !!} @endif

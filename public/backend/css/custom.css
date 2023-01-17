@@ -1,0 +1,66 @@
+.custom-detail-table ul {
+    list-style: none;
+    display: block;
+    display: block;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    display: flex;
+    margin-bottom: 0px;
+}
+.custom-detail-table ul li {
+    width: 40%;
+    float: left;
+}
+.custom-detail-table li.bold-heading-s {
+    font-weight: 600;
+}
+.media-files img.image-display, .media-files .video-display{
+    width: 200px;
+    min-height: 150px;
+}
+
+/*-------------------- 25. 404 Page ------------------- */
+
+.error-area {
+    min-height: 100vh;
+    background: #F3F8FB;
+}
+
+.error-content {
+    background: #fff;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    padding: 70px 30px;
+}
+
+.error-content h2 {
+    font-size: 98px;
+    font-weight: 800;
+    color: #161722;
+    margin-bottom: 28px;
+    text-shadow: -3px -3px 0 #ffffff, 3px -3px 0 #ffffff, -3px 3px 0 #ffffff, 3px 3px 0 #ffffff, 4px 4px 0 #6569dc, 5px 5px 0 #6569dc, 6px 6px 0 #6569dc, 7px 7px 0 #6569dc;
+    font-family: 'lato', sans-serif;
+}
+
+.error-content img {
+    margin-bottom: 50px;
+}
+
+.error-content p {
+    font-size: 17px;
+    color: #18181f;
+    font-weight: 600;
+}
+
+.error-content a {
+    display: inline-block;
+    margin-top: 40px;
+    background: #656aea;
+    color: #fff;
+    padding: 16px 26px;
+    border-radius: 3px;
+}
+
+/*-------------------- END 404 Page ------------------- */
